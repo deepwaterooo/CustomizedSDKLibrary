@@ -1,0 +1,19 @@
+#+latex_class: cn-article
+#+title: Customized library or SDK for personal use
+#+author: deepwaterooo
+
+* try to pack a SDK and/or a library for general app project use
+- referred to websites, 
+- some details still needs to be confirmed and clearify during
+  developments (activies destroy / launch modes). 
+- 目前有一两个个人的SDK，这个可以试着封成libray,但目前仍只是一个app
+- 感觉自己目前Android Studio builds whatever projects pulled from
+  github构建项目（SDK, NDK）一点儿问题也没有
+- 读别人项止的代码（java, kotlin, general的，相机、opengl rendering相
+  关的），也一点儿问题也没有
+- 当遇到抓来下别人的项目在本地手机运行出错的时候，也可以找到错误的源头，
+  把它们一一更正过来
+- 但就一点儿：自己从头到底设计一个项目，完完整整、系统性地把它实现出来，
+  感觉还像是练习得相对比较少，感觉陌生，不知道自己该去实现些什么项目来
+  练手。。。。。。所以想封两个sdks, library先应急搭个底儿，再慢慢借助
+  一些机会慢慢练起来。。。

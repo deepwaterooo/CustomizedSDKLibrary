@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyBaseApplication</string>
+    <string name="title">MyTitle</string>
+    <string name="make_sure">确定</string>
+    <string name="confirm">确认</string>
+    <string name="cancel">取消</string>
+    <string name="first_function_key">第一功能键</string>
+    <string name="second_function_key">第二功能键</string>
+    <string name="onload">玩命加载中</string>
+
+    <string name="confirm_abandon">确认放弃当前操作</string>
+
+    <string name="all_loaded">已全部加载</string>
+
+    <string name="all">共%s个</string>
+
+    <!--Exception-->
+    <string name="data_abnormal">参数异常</string>
+    <string name="scan_failed">扫码失败</string>
+    <string name="you_cannot_access_the_camera">您拒绝了相机权限</string>
+    <string name="to_be_continue">继续</string>
+    <string name="quit">退出</string>
+    <string name="page_has_been_automatically_closed">长时间未操作，已自动为您关闭扫码页面</string>
+    <string name="QR_code">二维码</string>
+    <string name="renovate_qrCode">二维码已失效？请点击刷新</string>
+</resources>
